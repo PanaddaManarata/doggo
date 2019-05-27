@@ -1,0 +1,22 @@
+*{margin: 0 auto; 
+padding: 0; 
+box-sizing: border-box;}
+
+
+#wrapper{
+   text-align: center;
+}
+
+#doge{
+    position: absolute;
+    top: 50%;
+    padding: 20px; 
+    border-radius: 5px; 
+    background-color: rgb(231, 177, 76); 
+font-family: sans-serif; 
+    
+}
+
+.imgdog{
+    background-image: url(../img/doggo.gif);
+}
